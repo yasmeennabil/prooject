@@ -16,16 +16,18 @@ public class Github {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-          int x;
-       x=200/5;
-     System.out.println("x is equal"+ x);
-     int y =5;
-             System.out.println("x is equal"+ x);
-             
-             System.out.println("x is equal"+ x);
-             System.out.println("x is equal"+ x);
-     
-
+        int x;
+        x=200/5;
+        System.out.println("x is equal"+ x);
+        int y =5;
+        System.out.println("x is equal"+ x);
+        System.out.println("x is equal"+ x);
+        System.out.println("x is equal"+ x);
+    }
+    
+    public static void print()
+    {
+        System.out.println("Thanks for using out proj !!");
     }
     
 }
