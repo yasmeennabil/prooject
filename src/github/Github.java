@@ -25,7 +25,7 @@ public class Github {
              System.out.println("x is equal"+ x);
              System.out.println("x is equal"+ x);
       System.out.println("y  is equal"+ y);
-
+ System.out.println("y  is equal"+ y);
     }
     
 }
